@@ -1,5 +1,4 @@
 # Week 1 - Welcome to Code!
-![HD-wallpaper-welcome-beach-funny-ocean](https://github.com/user-attachments/assets/d76c18fb-6f11-4671-8277-11454fa7b48e)
 
 Selamat datang di **ETHJKT Phase-0 Week 1**! 🧙‍♂️
 
